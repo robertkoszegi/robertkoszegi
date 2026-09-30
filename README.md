@@ -1,27 +1,28 @@
-# robertkoszegi.com
+## Hi, I'm Robert Koszegi 👋
 
-Personal website for Robert Koszegi — FileMaker and full-stack developer.
+FileMaker and full-stack developer in Hamilton, Ontario. I work as an in-house **Business Application Specialist**, designing FileMaker-based business solutions and integrating them with the platforms around them.
 
-A static, dependency-free site (HTML, CSS, a little JavaScript) that can be hosted on GitHub Pages or any static host.
+Before software, I spent years in broadcast and post-production, which is where I learned to care about quality control, reliable data handling, and tools that make people's day-to-day work easier.
 
-## Structure
+### Certifications
 
-| File          | Purpose                                            |
-| ------------- | -------------------------------------------------- |
-| `index.html`  | Page content: about, work history, certifications  |
-| `styles.css`  | Layout and theme (light and dark mode)             |
-| `script.js`   | Email obfuscation, scroll reveal, active nav link  |
-| `favicon.svg` | Site icon                                          |
+- App Developer for Claris FileMaker Pro Expert
+- Claris FileMaker Server Administrator Associate
+- ITIL® Foundation (Version 5)
+- CompTIA A+
 
-## Local preview
+### Things I've built
 
-Any static file server works, for example:
+- **FM Win Tools**: an AutoHotkey-based utility for FileMaker on Windows, listed on FileMakerStandards.org
 
-```bash
-npx serve .
-```
+### Toolbox
 
-## Updating content
+FileMaker · JavaScript · Node · React · Python · Django · PostgreSQL · MongoDB · AWS · Azure · Linux · Windows Server
 
-- **Work history** — edit the `<ol class="timeline">` list in `index.html`.
-- **Certifications** — edit the `<div class="certs">` block in `index.html`.
+### Find me
+
+🌐 [robertkoszegi.com](https://robertkoszegi.com) · 💼 [LinkedIn](https://www.linkedin.com/in/robertkoszegi)
+
+---
+
+<sub>This repository also holds the source for [robertkoszegi.com](https://robertkoszegi.com). See [DEVELOPMENT.md](DEVELOPMENT.md) for how it's put together.</sub>
